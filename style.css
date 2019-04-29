@@ -1,0 +1,20 @@
+/* Import Police */ 
+
+@font-face {
+    font-family: "pixel";
+    src :url("police/road_rage/Road_Rage.otf");
+  }
+
+/*-------------------------------------------- */
+
+/* Style primaire */ 
+body{
+    background-color: rgb(15, 15, 15);
+}
+h1{
+    color: #FE00FF !important;
+    font-size: 100px !important;
+    font-family: 'pixel' ,serif ;
+  }
+
+/* ------------------------------------------- */ 
